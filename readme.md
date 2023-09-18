@@ -32,3 +32,15 @@ The best performing model, which is the RNN model, has been deployed using an AP
 
 ## Conclusion
 This project demonstrates the use of various machine learning and deep learning models for emotion detection, along with preprocessing and over-sampling techniques to improve the performance of the models. The best performing model has been deployed using an API built with Flask, which can be used to predict the emotion of a given text input. Please feel free to use this project as a resource or contribute to it by submitting a pull request.
+
+## Result
+![IMG_8362](https://github.com/adham20022023/Emotion-Detection-NLP-Project/assets/90427660/aaeca6e3-1f54-4a90-bc30-2bf7041a4745)
+
+
+
+
+
+
+
+
+
